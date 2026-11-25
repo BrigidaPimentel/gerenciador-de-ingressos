@@ -35,7 +35,7 @@ Aplicação mobile/web desenvolvida em **React Native (Expo)** e **TypeScript** 
 * **`admins`**: `id`, `usuario`, `senha`, `created_at`
 
 ## Como Executar o Projeto
-
 1. Clone o repositório:
+
    ```bash
-  git clone [https://github.com/BrigidaPimentel/gerenciador-de-ingressos.git](https://github.com/BrigidaPimentel/gerenciador-de-ingressos.git)
+   git clone https://github.com/BrigidaPimentel/gerenciador-de-ingressos.git
